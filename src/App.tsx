@@ -22,7 +22,7 @@ function App() {
               <AddComents/>
             }
 
-            
+            //aqui tambien deben estar las rutas de el editComment
           >
         </Routes>
       </Router>

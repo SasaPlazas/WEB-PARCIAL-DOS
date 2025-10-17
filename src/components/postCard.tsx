@@ -9,8 +9,7 @@ const PostCard = (comments: Comment) => {
 
 //se usa un handleEdit, un conclick para que cuando clickee navegue a la pagina de editar. 
 //tambien se utiliza el dispatch en otro handleFavorite, cosa que cuando se clickee se agregue y el dispatch escuche la accion y la guarde en la UI. 
-
-
+//tambien se utiliza en caso de usar la accion de eliminar 
   return (
     
     <>

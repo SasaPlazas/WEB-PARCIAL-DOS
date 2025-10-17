@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import {commentReducer} from "./commentSlice"
+import commentReducer from "./commentSlice"
 // import AuthReducer from "./slices/AuthSlice";
 import {postApi} from "../services/apiComments"
 // import { pokemonApi } from "../services/pokemonFetch";
